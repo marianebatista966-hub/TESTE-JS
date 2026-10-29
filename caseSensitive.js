@@ -9,3 +9,4 @@ console.log(a)
 
 teste = A
 console.log(teste)
+/* Console.log (a) */
